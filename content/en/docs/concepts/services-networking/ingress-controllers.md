@@ -47,6 +47,7 @@ Kubernetes as a project currently supports and maintains [GCE](https://git.k8s.i
 * [Traefik](https://github.com/containous/traefik) is a fully featured ingress controller
   ([Let's Encrypt](https://letsencrypt.org), secrets, http2, websocket), and it also comes with commercial
   support by [Containous](https://containo.us/services).
+* [Application Gateway Ingress Controller](https://azure.github.io/application-gateway-kubernetes-ingress/) for [Azure Application Gateway](https://azure.microsoft.com/en-us/services/application-gateway/).
 
 ## Using multiple Ingress controllers
 
