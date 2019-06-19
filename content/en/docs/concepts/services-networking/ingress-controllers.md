@@ -25,6 +25,7 @@ Kubernetes as a project currently supports and maintains [GCE](https://git.k8s.i
 * [Ambassador](https://www.getambassador.io/) API Gateway is an [Envoy](https://www.envoyproxy.io) based ingress 
   controller with [community](https://www.getambassador.io/docs) or 
   [commercial](https://www.getambassador.io/pro/) support from [Datawire](https://www.datawire.io/).
+* [Application Gateway Ingress Controller](https://azure.github.io/application-gateway-kubernetes-ingress/) for [Azure Application Gateway](https://azure.microsoft.com/en-us/services/application-gateway/).
 * [AppsCode Inc.](https://appscode.com) offers support and maintenance for the most widely used [HAProxy](http://www.haproxy.org/) based ingress controller [Voyager](https://appscode.com/products/voyager).  
 * [Contour](https://github.com/heptio/contour) is an [Envoy](https://www.envoyproxy.io) based ingress controller
   provided and supported by Heptio.
@@ -47,7 +48,6 @@ Kubernetes as a project currently supports and maintains [GCE](https://git.k8s.i
 * [Traefik](https://github.com/containous/traefik) is a fully featured ingress controller
   ([Let's Encrypt](https://letsencrypt.org), secrets, http2, websocket), and it also comes with commercial
   support by [Containous](https://containo.us/services).
-* [Application Gateway Ingress Controller](https://azure.github.io/application-gateway-kubernetes-ingress/) for [Azure Application Gateway](https://azure.microsoft.com/en-us/services/application-gateway/).
 
 ## Using multiple Ingress controllers
 
